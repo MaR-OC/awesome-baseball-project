@@ -4,7 +4,6 @@ League management module for organizing multiple teams.
 import json
 import os
 from baseball_stats.team import Team
-from baseball_stats.player import Player
 
 
 class League:
